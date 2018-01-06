@@ -1,1 +1,1 @@
-# AndroidApp
+# Contents from /app/java and layout
